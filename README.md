@@ -27,8 +27,8 @@ Mahatma Gandhi, byname of Mohandas Karamchand Gandhi, was an Indian lawyer, poli
 
 ## Files
 
-- `index.html`: Contains the HTML structure of the web application.
-- `css1.css`: Contains the CSS styles for styling the web application.
+- `tribute.html`: Contains the HTML structure of the web application.
+- `CSS.css`: Contains the CSS styles for styling the web application.
 
   ## Requirements
 
